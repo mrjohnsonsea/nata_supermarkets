@@ -18,7 +18,7 @@ NATA Supermarkets wants to better understand its customer base to allocate marke
 | Source | Ivey Business School (W33836) |
 | Time Period | 2012–2014 |
 | Records | 2,240 customers (2,205 after cleaning) |
-| Features | 29 variables |
+| Features | 28 variables |
 | Coverage | Demographics, product spend by category, channel usage, campaign response |
 
 **Product categories:** Wines, Fruits, Meat, Fish, Sweets, Gold products  
