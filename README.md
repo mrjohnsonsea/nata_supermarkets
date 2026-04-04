@@ -124,3 +124,7 @@ jupyter notebook customer_analytics.ipynb
 ```
 
 Python 3.9+ required.
+
+---
+
+README written with the assistance of [Claude Code](https://claude.ai/code) by Anthropic.
